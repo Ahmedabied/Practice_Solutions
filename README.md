@@ -1,2 +1,3 @@
 # Practice_Solutions
-some slutions of HackerRank problems
+**some practical solutions for problems on hackerrank (Mediam,Hard)**
+*Categories (Python,Problem Solving,Artificial Intelligence)*
